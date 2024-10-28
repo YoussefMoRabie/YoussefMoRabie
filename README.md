@@ -5,15 +5,15 @@
 <hr />
 
 <h3 align="left"> 👀 visitor count</h3>
-<img src="https://profile-counter.glitch.me/Yousef-Rabia/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/YoussefMoRabie/count.svg" alt="Hello world" />
 
 <hr />
 
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="www.linkedin.com/in/yousef-rabia-b260a9201" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" width=8%> </a>
-<a href="https://twitter.com/Yousef__Rabia" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" width=8%> </a>
+<a href="www.linkedin.com/in/youssefrabie" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" width=8%> </a>
+<a href="https://x.com/YoussefMoRabie" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" width=8%> </a>
  <a href="mailto:yousef.mohamed.rabia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" width=6.8%></a>
 <a href="https://www.facebook.com/yousef.rabia.33" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" target="_blank" alt="Facebook" width=8%></a>
 <a href="https://dev.to/yousef_rabia" target="_blank" ><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to" target="_blank" width=6.8%></a>
@@ -29,18 +29,18 @@
 <hr />
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-rabia&show_icons=true&locale=en&layout=compact" alt="yousef-rabia" /></p><hr />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefMoRabie&show_icons=true&locale=en&layout=compact" alt="YoussefMoRabie" /></p><hr />
 
 
   <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousef-rabia&show_icons=true&locale=en" alt="yousef-rabia" /></p><hr />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefMoRabie&show_icons=true&locale=en" alt="YoussefMoRabie" /></p><hr />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-rabia&" alt="yousef-rabia" /></p><hr />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMoRabie&" alt="YoussefMoRabie" /></p><hr />
 
-  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yousef-Rabia&theme=vue" alt="yousef-rabia" /></p><hr />
+  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefMoRabie&theme=vue" alt="YoussefMoRabie" /></p><hr />
 
 
 </details>
