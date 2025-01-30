@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="www.linkedin.com/in/youssefrabie" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" width=8%> </a>
+<a href="https://www.linkedin.com/in/youssefrabie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" width=8%> </a>
 <a href="https://x.com/YoussefMoRabie" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" width=8%> </a>
  <a href="mailto:yousef.mohamed.rabia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" width=6.8%></a>
 <a href="https://www.facebook.com/yousef.rabia.33" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" target="_blank" alt="Facebook" width=8%></a>
